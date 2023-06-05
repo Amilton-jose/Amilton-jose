@@ -1,4 +1,3 @@
-<img align="right" width="400" height="400" src="https://github.com/Amilton-jose/Amilton-jose/assets/103237611/7cec1ae3-270b-47cd-bdde-93e0ba70472b">
 
 # Welcome!
 
