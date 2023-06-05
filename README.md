@@ -4,7 +4,7 @@
 
 ## I'm Amilton José!
 
-Qa | Desenvolvedor Java Back-end!
+Qa | Analista de Testes | Desenvolvedor Java Back-end!
 
 
 ## About me 
